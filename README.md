@@ -5,9 +5,15 @@ The database runs inside a **Docker** container.
 
 ---
 
-## 🚀 Tech Stack  
-**Backend:** Node.js, NestJS, Prisma, PostgreSQL, Docker  
-**Frontend:** Next.js, TailwindCSS  
+## 🚀 Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-Backend-red?logo=nestjs)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-blue?logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-black?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-blue?logo=tailwindcss)
 
 ---
 
@@ -55,7 +61,7 @@ npm install
 npm run dev
 ```
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-Fivos Kapsalis
+**Fivos Kapsalis**
 🔗 GitHub: [Fivkas](https://github.com/Fivkas)
