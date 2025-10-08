@@ -11,7 +11,8 @@ The database runs inside a **Docker** container.
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure
+```bash  
 expense-tracker/
 ├── api/ # NestJS backend (Prisma + CRUD endpoints for expenses & categories)
 ├── web/ # Next.js frontend (UI + Tailwind)
@@ -20,6 +21,7 @@ expense-tracker/
 │ ├── screenshot-dark.png
 │ └── screenshot-light.png
 └── README.md # Project documentation
+```
 
 ---
 
@@ -53,7 +55,7 @@ npm install
 npm run dev
 ```
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Fivos Kapsalis
 🔗 GitHub: [Fivkas](https://github.com/Fivkas)
